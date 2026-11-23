@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="Puppy photo unavailable">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8ead7"/><stop offset="1" stop-color="#e9c9a4"/></linearGradient></defs>
+  <rect width="640" height="760" fill="url(#bg)"/>
+  <circle cx="320" cy="315" r="170" fill="#d6a875" opacity=".34"/>
+  <path d="M205 235Q105 135 120 330Q135 420 245 370M435 235Q535 135 520 330Q505 420 395 370" fill="#a9784c"/>
+  <ellipse cx="320" cy="335" rx="155" ry="165" fill="#c58e5d"/>
+  <ellipse cx="265" cy="310" rx="15" ry="20" fill="#38291f"/><ellipse cx="375" cy="310" rx="15" ry="20" fill="#38291f"/>
+  <ellipse cx="320" cy="375" rx="24" ry="17" fill="#38291f"/><path d="M320 392q-20 28-45 8m45-8q20 28 45 8" fill="none" stroke="#38291f" stroke-width="8" stroke-linecap="round"/>
+  <text x="320" y="625" text-anchor="middle" font-family="Georgia,serif" font-size="32" fill="#684a31">A little love is on its way</text>
+  <text x="320" y="675" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#8d6846">TEDDYPUPS</text>
+</svg>
